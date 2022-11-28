@@ -1,0 +1,202 @@
+DeviceName                     InfName       IsSigned Manufacturer
+============================== ============= ======== =========================
+Network Printer Connection     printqueue.in TRUE     Kyocera
+Network Printer Connection     printqueue.in TRUE     Kyocera
+Microsoft enhanced Point and P prnms004.inf  TRUE     Microsoft
+Network Printer Connection     printqueue.in TRUE     Kyocera
+Network Printer Connection     printqueue.in TRUE     Kyocera
+Microsoft enhanced Point and P prnms004.inf  TRUE     Microsoft
+Network Printer Connection     printqueue.in TRUE     Kyocera
+Network Printer Connection     printqueue.in TRUE     Kyocera
+Microsoft enhanced Point and P prnms004.inf  TRUE     Microsoft
+Network Printer Connection     printqueue.in TRUE     Kyocera
+Network Printer Connection     printqueue.in TRUE     Kyocera
+Microsoft enhanced Point and P prnms004.inf  TRUE     Microsoft
+Network Printer Connection     printqueue.in TRUE     Kyocera
+Network Printer Connection     printqueue.in TRUE     Kyocera
+Microsoft enhanced Point and P prnms004.inf  TRUE     Microsoft
+Network Printer Connection     printqueue.in TRUE     Kyocera
+Network Printer Connection     printqueue.in TRUE     Kyocera
+Network Printer Connection     printqueue.in TRUE     Kyocera
+Network Printer Connection     printqueue.in TRUE     Kyocera
+Network Printer Connection     printqueue.in TRUE     Kyocera
+Network Printer Connection     printqueue.in TRUE     Kyocera
+Microsoft enhanced Point and P prnms004.inf  TRUE     Microsoft
+Network Printer Connection     printqueue.in TRUE     Kyocera
+Microsoft enhanced Point and P prnms004.inf  TRUE     Microsoft
+Network Printer Connection     printqueue.in TRUE     Kyocera
+Microsoft enhanced Point and P prnms004.inf  TRUE     Microsoft
+Network Printer Connection     printqueue.in TRUE     Kyocera
+Network Printer Connection     printqueue.in TRUE     Kyocera
+Network Printer Connection     printqueue.in TRUE     Kyocera
+Network Printer Connection     printqueue.in TRUE     Kyocera
+Network Printer Connection     printqueue.in TRUE     Kyocera
+Microsoft enhanced Point and P prnms004.inf  TRUE     Microsoft
+Microsoft enhanced Point and P prnms004.inf  TRUE     Microsoft
+Microsoft enhanced Point and P prnms004.inf  TRUE     Microsoft
+Network Printer Connection     printqueue.in TRUE     Kyocera
+Microsoft enhanced Point and P prnms004.inf  TRUE     Microsoft
+Microsoft enhanced Point and P prnms004.inf  TRUE     Microsoft
+Network Printer Connection     printqueue.in TRUE     Kyocera
+Network Printer Connection     printqueue.in TRUE     Kyocera
+Network Printer Connection     printqueue.in TRUE     Kyocera
+Network Printer Connection     printqueue.in TRUE     Kyocera
+Microsoft enhanced Point and P prnms004.inf  TRUE     Microsoft
+Network Printer Connection     printqueue.in TRUE     Kyocera
+Microsoft enhanced Point and P prnms004.inf  TRUE     Microsoft
+Network Printer Connection     printqueue.in TRUE     Kyocera
+Network Printer Connection     printqueue.in TRUE     Kyocera
+Network Printer Connection     printqueue.in TRUE     Kyocera
+Microsoft enhanced Point and P prnms004.inf  TRUE     Microsoft
+Network Printer Connection     printqueue.in TRUE     Kyocera
+Network Printer Connection     printqueue.in TRUE     Kyocera
+Network Printer Connection     printqueue.in TRUE     Kyocera
+Microsoft enhanced Point and P prnms004.inf  TRUE     Microsoft
+Network Printer Connection     printqueue.in TRUE     Kyocera
+Network Printer Connection     printqueue.in TRUE     Kyocera
+Network Printer Connection     printqueue.in TRUE     Kyocera
+Network Printer Connection     printqueue.in TRUE     Kyocera
+Microsoft enhanced Point and P prnms004.inf  TRUE     Microsoft
+Network Printer Connection     printqueue.in TRUE     Kyocera
+Microsoft enhanced Point and P prnms004.inf  TRUE     Microsoft
+Microsoft enhanced Point and P prnms004.inf  TRUE     Microsoft
+Network Printer Connection     printqueue.in TRUE     Kyocera
+Network Printer Connection     printqueue.in TRUE     Kyocera
+Microsoft enhanced Point and P prnms004.inf  TRUE     Microsoft
+Network Printer Connection     printqueue.in TRUE     Kyocera
+Microsoft enhanced Point and P prnms004.inf  TRUE     Microsoft
+Network Printer Connection     printqueue.in TRUE     Kyocera
+Local Print Queue              printqueue.in TRUE     Microsoft
+Local Print Queue              printqueue.in TRUE     Adobe
+Local Print Queue              printqueue.in TRUE     Microsoft
+Local Print Queue              printqueue.in TRUE     Microsoft
+Local Print Queue              printqueue.in TRUE     Microsoft
+Local Print Queue              printqueue.in TRUE     Microsoft
+Local Print Queue              printqueue.in TRUE     Microsoft
+Local Print Queue              printqueue.in TRUE     Microsoft
+Local Print Queue              printqueue.in TRUE     Microsoft
+WAN Miniport (Network Monitor) netrasa.inf   TRUE     Microsoft
+WAN Miniport (IPv6)            netrasa.inf   TRUE     Microsoft
+WAN Miniport (IP)              netrasa.inf   TRUE     Microsoft
+WAN Miniport (PPPOE)           netrasa.inf   TRUE     Microsoft
+WAN Miniport (PPTP)            netrasa.inf   TRUE     Microsoft
+WAN Miniport (L2TP)            netrasa.inf   TRUE     Microsoft
+WAN Miniport (IKEv2)           netavpna.inf  TRUE     Microsoft
+WAN Miniport (SSTP)            netsstpa.inf  TRUE     Microsoft
+Generic software device        c_swdevice.in TRUE     Microsoft
+Generic software device        c_swdevice.in TRUE     Microsoft
+Generic software device        c_swdevice.in TRUE     Microsoft
+Remote Desktop Device Redirect rdpbus.inf    TRUE     Microsoft
+CD-ROM Drive                   cdrom.inf     TRUE     (Standard CD-ROM drives)
+Virtual CloneDrive             oem0.inf      FALSE    Elaborate Bytes AG
+Plug and Play Software Device  swenum.inf    TRUE     (Standard system devices)
+Microsoft System Management BI mssmbios.inf  TRUE     (Standard system devices)
+NDIS Virtual Network Adapter E ndisvirtualbu TRUE     Microsoft
+Microsoft Basic Render Driver  basicrender.i TRUE     Microsoft
+ACPI Fixed Feature Button      machine.inf   TRUE     (Standard system devices)
+Motherboard resources          machine.inf   TRUE     (Standard system devices)
+ACPI Thermal Zone              machine.inf   TRUE     (Standard system devices)
+ACPI Fan                       machine.inf   TRUE     (Standard system devices)
+ACPI Fan                       machine.inf   TRUE     (Standard system devices)
+ACPI Fan                       machine.inf   TRUE     (Standard system devices)
+ACPI Fan                       machine.inf   TRUE     (Standard system devices)
+ACPI Fan                       machine.inf   TRUE     (Standard system devices)
+Microsoft Windows Management I wmiacpi.inf   TRUE     Microsoft
+Microsoft Windows Management I wmiacpi.inf   TRUE     Microsoft
+Microsoft Windows Management I wmiacpi.inf   TRUE     Microsoft
+Microsoft Windows Management I wmiacpi.inf   TRUE     Microsoft
+Trusted Platform Module 2.0    tpm.inf       TRUE     (Standard)
+ACPI Power Button              machine.inf   TRUE     (Standard system devices)
+Intel(R) Power Engine Plug-in  intelpep.inf  TRUE     Intel Corporation
+Microsoft Windows Management I wmiacpi.inf   TRUE     Microsoft
+Microsoft Windows Management I wmiacpi.inf   TRUE     Microsoft
+ACPI Processor Aggregator      acpipagr.inf  TRUE     (Standard system devices)
+Intel Processor                cpu.inf       TRUE     Intel
+Intel Processor                cpu.inf       TRUE     Intel
+Intel Processor                cpu.inf       TRUE     Intel
+Intel Processor                cpu.inf       TRUE     Intel
+Intel Processor                cpu.inf       TRUE     Intel
+Intel Processor                cpu.inf       TRUE     Intel
+Intel Processor                cpu.inf       TRUE     Intel
+Intel Processor                cpu.inf       TRUE     Intel
+ACPI Sleep Button              machine.inf   TRUE     (Standard system devices)
+Motherboard resources          machine.inf   TRUE     (Standard system devices)
+Motherboard resources          machine.inf   TRUE     (Standard system devices)
+Intel(R) Serial IO GPIO Host C iaLPSS2i_GPIO TRUE     Intel Corporation
+Motherboard resources          machine.inf   TRUE     (Standard system devices)
+Motherboard resources          machine.inf   TRUE     (Standard system devices)
+Motherboard resources          machine.inf   TRUE     (Standard system devices)
+Intel(R) SMBus - A3A3          oem4.inf      TRUE     INTEL
+Intel(R) Display Audio         oem9.inf      TRUE     Intel(R) Corporation
+Audio Endpoint                 audioendpoint TRUE     Microsoft
+Realtek Audio Universal Servic oem37.inf     TRUE     Realtek
+Realtek Asio Component         oem38.inf     TRUE     Realtek
+Realtek Audio Effects Componen oem36.inf     TRUE     Realtek
+Waves APO                      oem30.inf     TRUE     Waves
+Realtek Audio                  oem34.inf     TRUE     Microsoft
+High Definition Audio Controll hdaudbus.inf  TRUE     Microsoft
+Intel(R) PMC - A3A1            oem4.inf      TRUE     INTEL
+Motherboard resources          machine.inf   TRUE     (Standard system devices)
+System timer                   machine.inf   TRUE     (Standard system devices)
+System CMOS/real time clock    machine.inf   TRUE     (Standard system devices)
+Motherboard resources          machine.inf   TRUE     (Standard system devices)
+Numeric data processor         machine.inf   TRUE     (Standard system devices)
+Programmable interrupt control machine.inf   TRUE     (Standard system devices)
+High precision event timer     machine.inf   TRUE     (Standard system devices)
+Communications Port            msports.inf   TRUE     (Standard port types)
+Motherboard resources          machine.inf   TRUE     (Standard system devices)
+Intel(R) LPC Controller (B460) oem4.inf      TRUE     INTEL
+Realtek PCIe GbE Family Contro oem17.inf     TRUE     Realtek
+Intel(R) PCI Express Root Port oem4.inf      TRUE     INTEL
+Disk drive                     disk.inf      TRUE     (Standard disk drives)
+Standard NVM Express Controlle stornvme.inf  TRUE     Standard NVM Express Cont
+Intel(R) PCI Express Root Port oem4.inf      TRUE     INTEL
+Intel(R) 400 Series Chipset Fa oem18.inf     TRUE     Intel Corporation
+Intel(R) Management and Securi oem22.inf     TRUE     Intel
+Intel(R) iCLS Client           oem21.inf     TRUE     Intel
+Intel(R) Dynamic Application L oem20.inf     TRUE     Intel
+Intel(R) Management Engine Int oem19.inf     TRUE     Intel
+Intel(R) Thermal Subsystem - A oem5.inf      TRUE     INTEL
+HID-compliant vendor-defined d input.inf     TRUE     (Standard system devices)
+HID-compliant consumer control hidserv.inf   TRUE     Microsoft
+HID-compliant system controlle input.inf     TRUE     (Standard system devices)
+USB Input Device               input.inf     TRUE     (Standard system devices)
+HID Keyboard Device            keyboard.inf  TRUE     (Standard keyboards)
+USB Input Device               input.inf     TRUE     (Standard system devices)
+USB Composite Device           usb.inf       TRUE     (Standard USB Host Contro
+HID-compliant mouse            msmouse.inf   TRUE     Microsoft
+USB Input Device               input.inf     TRUE     (Standard system devices)
+USB Root Hub (USB 3.0)         usbhub3.inf   TRUE     (Standard USB HUBs)
+USB xHCI Compliant Host Contro usbxhci.inf   TRUE     Generic USB xHCI Host Con
+Intel(R) Gaussian Mixture Mode oem6.inf      TRUE     INTEL
+Generic PnP Monitor            monitor.inf   TRUE     (Standard monitor types)
+Intel(R) Graphics Command Cent oem12.inf     TRUE     Intel Corporation
+Intel(R) Graphics Control Pane oem11.inf     TRUE     Intel Corporation
+Intel(R) UHD Graphics 630      oem10.inf     TRUE     Intel Corporation
+PCI standard host CPU bridge   machine.inf   TRUE     (Standard system devices)
+PCI Express Root Complex       pci.inf       TRUE     (Standard system devices)
+Microsoft ACPI-Compliant Syste acpi.inf      TRUE     Microsoft
+ACPI x64-based PC              hal.inf       TRUE     (Standard computers)
+UMBus Enumerator               umbus.inf     TRUE     Microsoft
+Remote Desktop USB Hub         tsusbhub.inf  TRUE     (Standard system devices)
+UMBus Enumerator               umbus.inf     TRUE     Microsoft
+UMBus Enumerator               umbus.inf     TRUE     Microsoft
+UMBus Enumerator               umbus.inf     TRUE     Microsoft
+UMBus Root Bus Enumerator      umbus.inf     TRUE     Microsoft
+Microsoft Kernel Debug Network kdnic.inf     TRUE     Microsoft
+Microsoft Storage Spaces Contr spaceport.inf TRUE     Microsoft
+Microsoft Virtual Drive Enumer vdrvroot.inf  TRUE     Microsoft
+Composite Bus Enumerator       compositebus. TRUE     Microsoft
+Microsoft Hyper-V Virtualizati wvid.inf      TRUE     Microsoft
+Microsoft Basic Display Driver basicdisplay. TRUE     (Standard display types)
+Generic volume shadow copy     volsnap.inf   TRUE     Microsoft
+Generic volume shadow copy     volsnap.inf   TRUE     Microsoft
+Generic volume shadow copy     volsnap.inf   TRUE     Microsoft
+Volume                         volume.inf    TRUE     Microsoft
+Volume                         volume.inf    TRUE     Microsoft
+Volume                         volume.inf    TRUE     Microsoft
+Volume Manager                 volmgr.inf    TRUE     Microsoft
+PS C:\WINDOWS\system32>
+
+
+
