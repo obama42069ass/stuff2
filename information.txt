@@ -1,0 +1,60 @@
+PS C:\NMSClient> Get-ItemProperty -Path "HKLM:\SOFTWARE\Northgate Managed Services\Image\Customisation\"
+
+
+PXE_depotserver                    : 5210282-ds01.c2ken.net
+PXE_childserver                    : pdc-smp-cns05.c2ken.net
+computerName                       : 5210282-MSCA205
+NMSasset                           : A168024
+productID                          : 07WP95
+RAM                                : 8001
+NMSInstallUser                     : admin\ccunning2
+EndUserDeviceType                  : desktop
+PXEBuildServer                     : 5210282-ds01.c2ken.net
+DetectedComputerName               : W10ManualWinPE5Build
+ImageDeploymentDate                : 11/18/2019
+PrimaryStaff                       : 0
+PrimaryDefault                     : 0
+PostPrimaryStaff                   : 1
+PostPrimaryDefault                 : 1
+SENStaff                           : 0
+SENDefault                         : 0
+WBIMEX                             : 0
+WBPromethean                       : 0
+WBSmartBoard                       : 0
+WBHitachi                          : 0
+Library                            : 0
+Finance                            : 0
+AllENNIClientComputers             : 1
+ModernAppsLog                      : 0
+Store                              : 0
+ClientSiteName                     : 5210282-Site
+DC                                 : 5210282-DC01
+DNSForest                          : c2ken.net
+forestDN                           : DC=c2ken,DC=net
+deployComplete                     : 1
+deployCompleteDate                 : 18/11/2019 TIME
+2014_01_M-Windows-LanguageFeatures : Installed
+AppV3F1LastRun                     : 13/01/23 00:00:52
+Chrome                             : Managed
+ChromeVersion                      : 105.0.5195.102
+AppV14021LastRun                   : 13/01/23 00:25:03
+AppStoreDTODate                    : 29/12/2017 11:37:46
+ChromeGroup                        : Added
+WinclientXMLFile                   : 26October2020
+BGInfoUpdate                       : Mar2021
+W10_Version                        : 20h2
+SACU_Method                        : Policy
+W10_Cleanup                        : Complete
+Windows1909SetupComplete           : 1
+AppV1909PackageRefreshDate         : 2021-06-04 02:05:01
+AppV1909PackageRefreshVersion      : v1
+CapitaServiceMonitorConfig         : June21
+CapitaServiceMonitorConfigDate     : 07/07/2021
+ConnectINIScript                   : 2022-09-02
+PSPath                             : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Northgate Managed
+                                     Services\Image\Customisation\
+PSParentPath                       : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SOFTWARE\Northgate Managed
+                                     Services\Image
+PSChildName                        : Customisation
+PSDrive                            : HKLM
+PSProvider                         : Microsoft.PowerShell.Core\Registry
